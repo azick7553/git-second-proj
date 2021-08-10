@@ -6,7 +6,10 @@ namespace console_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x = 5;
+            int y = 6;
+
+            int result = x + y;
         }
     }
 }
